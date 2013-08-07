@@ -1,0 +1,14 @@
+{
+  "name": "acorn",
+  "repo": "karlbohlmark/acorn",
+  "description": "Fast JavaScript parser",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "acorn.js",
+  "scripts": [
+    "acorn.js"
+  ]
+}
